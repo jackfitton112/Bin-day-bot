@@ -15,4 +15,4 @@ To be added when PCBs arrive.
 ---
 ### License
 
-This project is licensed under the GPL License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the CERN Open Hardware Licence v1.2 - see the [LICENSE.md](LICENSE.md) file for details. This complies with the requirements of the [Open Source Hardware Association](https://www.oshwa.org/definition/).
