@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "WEMOS_ESP32_S2_MINI")(type "KiCad")(uri "${KIPRJMOD}/Kicad/Footprints/WEMOS_ESP32_S2_MINI.pretty")(options "")(descr ""))
+)

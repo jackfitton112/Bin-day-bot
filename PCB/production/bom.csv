@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,1,Battery,
+"C1, C2, C3, C4, C5, C6, C7, C8",0603,8,4.7U,
+"D1, D2, D3, D4, D5, D6",LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,6,WS2812B,
+J1,USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal,1,USB_C_Receptacle_PowerOnly_6P,
+J2,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03_Pin,
+"R1, R2",0603,2,5.1K,
+"R3, R5",0603,2,12K7,
+R4,0603,1,12K4,
+U1,WEMOS_ESP32_S2_MINI,1,WEMOS_ESP32_S2_MINI,
+U2,SOT-23-5,1,MCP73831-2-OT,
